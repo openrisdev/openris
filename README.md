@@ -1,2 +1,2 @@
 # openris
-An EMR that is specific for the practice of radiology, also known as a RIS or Radiology Information System. Not a dicom/medical image viewer, not a pacs.
+A complete a feature rich EMR that is specific for the practice of radiology and all its workflows, also known as a RIS or Radiology Information System. Not to be conflated with a dicom/medical image viewer, or a pacs file storage system.
